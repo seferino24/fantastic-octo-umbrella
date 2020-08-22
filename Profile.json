@@ -1,0 +1,14 @@
+{
+  "name": {
+    "givenName": "Seferino",
+    "familyName": "onofre jr",
+    "formattedName": "Seferino onofre jr"
+  },
+  "displayName": "Seferino onofre jr",
+  "emails": [{
+    "value": "dr.raidek9@gmail.com"
+  }],
+  "gender": {
+    "type": "male"
+  }
+}
